@@ -1,0 +1,34 @@
+# LangChain ecosystem
+langchain
+langchain-classic
+langchain-community
+langchain-core
+langchain-text-splitters>=0.2.0
+langchain-huggingface
+langchain-qdrant
+langchain-groq
+langgraph
+
+# Embeddings and retrieval
+sentence-transformers
+rank-bm25
+qdrant-client
+
+# Data science and machine learning
+scikit-learn
+pandas
+numpy
+joblib
+
+# Backend and validation
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings>=2.0.0
+sqlalchemy
+
+# Environment variables and web search
+python-dotenv
+tavily-python
+
+pypdf
